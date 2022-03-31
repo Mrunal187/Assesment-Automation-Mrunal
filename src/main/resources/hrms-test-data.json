@@ -1,0 +1,12 @@
+[
+  {
+    "username" : "user1",
+    "password" : "demouserpwd",
+    "expectedFullName" : "Sofia O'Sullivan"
+  },
+  {
+    "username" : "user2",
+    "password" : "demouserpwd",
+    "expectedFullName" : "Taylor Holmes"
+  }
+]
